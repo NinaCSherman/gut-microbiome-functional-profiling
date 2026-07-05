@@ -1,0 +1,8 @@
+# Ignore large bioinformatics data streams
+*.fastq
+*.sra
+*.bowtie2out.txt
+
+# Ignore Python cache and environment artifacts
+__pycache__/
+.DS_Store

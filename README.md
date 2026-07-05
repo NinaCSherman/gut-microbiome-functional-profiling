@@ -8,6 +8,8 @@
 
 **Date:** May 11, 2026
 
+[![Read Paper](https://shields.io)](docs/NinaCSherman-gut-microbiome-profiling-document.pdf)
+
 ## Project Overview
 
 This repository contains the complete bioinformatics pipeline and downstream analysis script used to compare the functional metabolic potential of gut microbiomes from young children (ages 2 and under) across distinct geographic and economic regions. Using publicly available shotgun metagenomic stool sequencing data, this project evaluates how differences in geography, diet, and environmental exposures influence the metabolic capabilities of the human gut.
